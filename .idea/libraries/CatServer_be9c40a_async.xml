@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CatServer-be9c40a-async">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/CatServer-be9c40a-async.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
